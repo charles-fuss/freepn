@@ -1,5 +1,0 @@
-ports:
-  tor: 9050
-  torrent_exit: 999
-
-sudo: syntax21
