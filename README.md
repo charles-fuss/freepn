@@ -1,1 +1,1 @@
-torrent without borders (or VPNs)
+torrent without borders or VPNs (wip)
